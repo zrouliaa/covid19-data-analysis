@@ -1,6 +1,6 @@
 # covid19-data-analysis
 
-After Importing data, cleaning it, analyzing it and successfully visualize it. I did find the correlation between the covid19 infection rates and other happiness factors for all countries. For more details, check the Notebook file : https://github.com/zrouliaa/covid19-data-analysis/blob/main/covid19%20data%20analysis%20notebook.ipynb
+After Importing data, cleaning it, analyzing it and successfully visualize it. I did find the correlation between the covid19 infection rates and other worldwide happiness factors. For more details, check the Notebook file : https://github.com/zrouliaa/covid19-data-analysis/blob/main/covid19%20data%20analysis%20notebook.ipynb
 
 ### To run the project in your own laptop, you will need to install jupyter notebook using these instructions:
 
