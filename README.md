@@ -8,9 +8,9 @@ After Importing data, cleaning it, analyzing it and successfully visualize it. I
 
 ### Also, you will need some libraries :
 
-```pip install pandas```
-```pip install seaborn```
-```pip install numpy```
+```pip install pandas``` \n
+```pip install seaborn``` \n
+```pip install numpy``` \n
 ```pip install matplotlib```
 
 ### To run jupyter notebook:
