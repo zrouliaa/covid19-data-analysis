@@ -4,7 +4,7 @@ After Importing data, cleaning it, analyzing it and successfully visualize it. I
 
 ### To run the project in your own laptop, you will need to install jupyter notebook using these instructions:
 
-$ pip install notebook
+```pip install notebook```
 
 ### Also, you will need some libraries :
 
