@@ -8,14 +8,14 @@ After Importing data, cleaning it, analyzing it and successfully visualize it. I
 
 ### Also, you will need some libraries :
 
-$ pip install pandas
-$ pip install seaborn
-$ pip install numpy
-$ pip install matplotlib
+```pip install pandas```
+```pip install seaborn```
+```pip install numpy```
+```pip install matplotlib```
 
 ### To run jupyter notebook:
 
-$ jupyter notebook
+```jupyter notebook```
 
 ### After opening the notebook, execute each cell (from top to bottom) using CTRL+ENTER
 
